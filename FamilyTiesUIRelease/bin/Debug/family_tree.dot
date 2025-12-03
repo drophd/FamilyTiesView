@@ -1,0 +1,14 @@
+digraph family_tree {
+    node [shape=box, style=filled, fillcolor=lightblue];
+    edge [dir=forward];
+    rankdir=TB;
+
+    "8dbc01ce-2fc5-4f3d-8145-43dd618d78ec" [label="авпрвар аврварвар\n0 лет", fillcolor=lightblue];
+    "2f5d6962-bd25-419b-84b3-2477e8fdfb73" [label="варвар варварвар\n0 лет", fillcolor=pink];
+    "a1bd6441-b553-44e0-86de-69718e3d1a3a" [label="аврвар аврваравр\n0 лет", fillcolor=lightblue];
+
+    { rank=same; "8dbc01ce-2fc5-4f3d-8145-43dd618d78ec" }
+    { rank=same; "2f5d6962-bd25-419b-84b3-2477e8fdfb73"; "a1bd6441-b553-44e0-86de-69718e3d1a3a" }
+    "2f5d6962-bd25-419b-84b3-2477e8fdfb73" -> "8dbc01ce-2fc5-4f3d-8145-43dd618d78ec"
+    "2f5d6962-bd25-419b-84b3-2477e8fdfb73" -> "8dbc01ce-2fc5-4f3d-8145-43dd618d78ec" [dir=none, color=red];
+}

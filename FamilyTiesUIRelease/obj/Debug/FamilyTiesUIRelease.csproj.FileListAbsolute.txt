@@ -1,0 +1,15 @@
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.csproj.AssemblyReference.cache
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.MainForm.resources
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.Properties.Resources.resources
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.csproj.GenerateResource.cache
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.csproj.CoreCompileInputs.cache
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\bin\Debug\FamilyTiesUIRelease.exe.config
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\bin\Debug\FamilyTiesUIRelease.exe
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\bin\Debug\FamilyTiesUIRelease.pdb
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.exe
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.pdb
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.Forms.AddPersonForm.resources
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.Forms.AddRoleForm.resources
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.Forms.RemovePersonForm.resources
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.Forms.DeleteRoleForm.resources
+F:\Users\aayur\source\repos\FamilyTiesUIRelease\FamilyTiesUIRelease\obj\Debug\FamilyTiesUIRelease.Core.Models.FamilyMember.resources
