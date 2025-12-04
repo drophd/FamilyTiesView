@@ -22,7 +22,7 @@
 ## Установка и запуск
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/family-tree-app.git
+   git clone https://github.com/drophd/family-tree-app.git
 2. Открыть решение в IDE
 
 3. Собрать и запустить проект
